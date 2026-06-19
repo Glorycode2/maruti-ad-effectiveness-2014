@@ -1,0 +1,68 @@
+question_id,question_text,response_category,respondent_count,percent
+Q1,What is your age group?,Less than 25,10,10
+Q1,What is your age group?,26-40,40,40
+Q1,What is your age group?,41-50,35,35
+Q1,What is your age group?,Above 50,15,15
+Q2,What is your annual income?,2-6 lakhs,30,30
+Q2,What is your annual income?,6-9 lakhs,42,42
+Q2,What is your annual income?,9-12 lakhs,10,10
+Q2,What is your annual income?,Above 12 lakhs,18,18
+Q3,Have you come across any advertisements of Maruti Suzuki?,Yes,52,52
+Q3,Have you come across any advertisements of Maruti Suzuki?,No,48,48
+Q4,Which media gets your attention?,Printed media,20,20
+Q4,Which media gets your attention?,Television,10,10
+Q4,Which media gets your attention?,Internet,30,30
+Q4,Which media gets your attention?,Radio,10,10
+Q4,Which media gets your attention?,Other,30,30
+Q5,Have you noticed advertisements published in newspapers and magazines?,Yes,54,54
+Q5,Have you noticed advertisements published in newspapers and magazines?,No,46,46
+Q6,Do you go through advertisements published in newspapers and magazines?,Yes,45,45
+Q6,Do you go through advertisements published in newspapers and magazines?,No,55,55
+Q7,Have you come across any Maruti Suzuki advertisements on any TV channel?,Yes,32,32
+Q7,Have you come across any Maruti Suzuki advertisements on any TV channel?,No,68,68
+Q8,Do TV ads influence you to buy a new Maruti Suzuki product?,Yes,28,28
+Q8,Do TV ads influence you to buy a new Maruti Suzuki product?,No,72,72
+Q9,How would you rate Maruti Suzuki's advertisements compared with other ads you have seen?,Excellent,10,10
+Q9,How would you rate Maruti Suzuki's advertisements compared with other ads you have seen?,Good,20,20
+Q9,How would you rate Maruti Suzuki's advertisements compared with other ads you have seen?,Average,25,25
+Q9,How would you rate Maruti Suzuki's advertisements compared with other ads you have seen?,Not good,30,30
+Q9,How would you rate Maruti Suzuki's advertisements compared with other ads you have seen?,Poor,15,15
+Q10,What do you like in an advertisement?,Theme and concept,38,38
+Q10,What do you like in an advertisement?,Taglines,10,10
+Q10,What do you like in an advertisement?,Layout,22,22
+Q10,What do you like in an advertisement?,Offers,20,20
+Q10,What do you like in an advertisement?,Others,10,10
+Q11,Do brand ambassador campaigns influence your buying decision?,Yes,65,65
+Q11,Do brand ambassador campaigns influence your buying decision?,No,35,35
+Q12,What do you think about Maruti Suzuki ads?,Excellent,20,20
+Q12,What do you think about Maruti Suzuki ads?,Good,30,30
+Q12,What do you think about Maruti Suzuki ads?,Average,25,25
+Q12,What do you think about Maruti Suzuki ads?,Not good,20,20
+Q12,What do you think about Maruti Suzuki ads?,Poor,5,5
+Q13,Do you listen to Maruti Suzuki jingles on radio/FM?,Yes,68,68
+Q13,Do you listen to Maruti Suzuki jingles on radio/FM?,No,32,32
+Q14,What is the rate of impact of ads on your buying decision?,Less than 10%,22,22
+Q14,What is the rate of impact of ads on your buying decision?,10% to 30%,43,43
+Q14,What is the rate of impact of ads on your buying decision?,30% to 50%,23,23
+Q14,What is the rate of impact of ads on your buying decision?,50% to 75%,10,10
+Q14,What is the rate of impact of ads on your buying decision?,75% to 100%,2,2
+Q15,Which media would be most helpful for getting information about Maruti Suzuki?,TV ads,15,15
+Q15,Which media would be most helpful for getting information about Maruti Suzuki?,Hoardings,20,20
+Q15,Which media would be most helpful for getting information about Maruti Suzuki?,Printed media,25,25
+Q15,Which media would be most helpful for getting information about Maruti Suzuki?,Internet,35,35
+Q15,Which media would be most helpful for getting information about Maruti Suzuki?,Others,15,15
+Q16,What is your opinion about advertisements of Maruti Suzuki?,Excellent,20,20
+Q16,What is your opinion about advertisements of Maruti Suzuki?,Good,30,30
+Q16,What is your opinion about advertisements of Maruti Suzuki?,Average,25,25
+Q16,What is your opinion about advertisements of Maruti Suzuki?,Not good,20,20
+Q16,What is your opinion about advertisements of Maruti Suzuki?,Poor,5,5
+Q17,Are you satisfied with the advertisements promoted by Maruti Suzuki (company-wide)?,Excellent,10,10
+Q17,Are you satisfied with the advertisements promoted by Maruti Suzuki (company-wide)?,Good,20,20
+Q17,Are you satisfied with the advertisements promoted by Maruti Suzuki (company-wide)?,Average,25,25
+Q17,Are you satisfied with the advertisements promoted by Maruti Suzuki (company-wide)?,Not good,30,30
+Q17,Are you satisfied with the advertisements promoted by Maruti Suzuki (company-wide)?,Poor,15,15
+Q18,Are you satisfied with the advertisement efforts made by Varun Motors specifically?,Excellent,20,20
+Q18,Are you satisfied with the advertisement efforts made by Varun Motors specifically?,Good,30,30
+Q18,Are you satisfied with the advertisement efforts made by Varun Motors specifically?,Average,27,27
+Q18,Are you satisfied with the advertisement efforts made by Varun Motors specifically?,Not good,13,13
+Q18,Are you satisfied with the advertisement efforts made by Varun Motors specifically?,Poor,10,10
