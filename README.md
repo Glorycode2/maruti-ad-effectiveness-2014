@@ -10,11 +10,11 @@ Dealerships and car manufacturers spend heavily on advertising, but not all of t
 
 This dataset comes from a structured questionnaire survey of 100 customers, conducted at Varun Motors between May and July 2014, using simple random sampling. It covers 18 questions from demographics, ad awareness, media preferences, to customer satisfaction.
 
-This is real, historical data. It was originally recorded as aggregate frequency tables (e.g 38 of 100 respondents picked X) inside a Word document, not as individual-level survey records. I digitized those tables into a clean CSV for analysis. Full provenance, along with two data quality issues I found in the original source (and chose to document rather than silently fix), are in [`data/raw/DATA_SOURCE_NOTES.md`](data/raw/DATA_SOURCE_NOTES.md).
+This is real, historical data. It was originally recorded as aggregate frequency tables (e.g 38 of 100 respondents picked X) inside a Word document, not as individual-level survey records. I digitized those tables into a clean CSV for analysis. Full provenance, along with two data quality issues I found in the original source (and chose to document rather than silently fix), are in (DATA_SOURCE_NOTES.md).
 
 ## Methodology
 
-Everything was done in Python (pandas + matplotlib) in a Google Colab notebook. See [`notebooks/maruti_ad_analysis.ipynb`](notebooks/maruti_ad_analysis.ipynb).
+Everything was done in Python (pandas + matplotlib) in a Google Colab notebook. See (maruti_ad_analysis.ipynb).
 
 Steps:
 1. Loaded the digitized CSV and checked its shape and structure
