@@ -13,17 +13,16 @@ conducted at the Varun Motors (Maruti Suzuki) dealership in Visakhapatnam.
 - **Original format:** Word document containing one frequency table per question
   (category-level counts and percentages, not individual respondent records)
 
-This is **historical data (2014)**. It is presented and analyzed as such — no
+This is **historical data (2014)**. It is presented and analyzed as such, no
 dates, figures, or company details have been altered to appear current. Any
 findings here describe customer perception in 2014, not present-day conditions.
 
 ## Known limitations
 
 1. **Aggregate-only data.** The source document provides only summary frequency
-   tables per question (e.g., "38% of respondents chose Theme & Concept"). No
+   tables per question ("38% of respondents chose Theme & Concept"). No
    individual-level (row-per-respondent) records exist in the source. This
-   means cross-tabulation across questions for the *same* respondent (e.g.,
-   "do higher-income respondents rate ads more positively?") is not possible
+   means cross-tabulation across questions for the *same* respondent ("do higher-income respondents rate ads more positively?") is not possible
    with this data. Analysis here is limited to per-question distributions and
    between-question comparisons at the aggregate level.
 
@@ -37,7 +36,7 @@ findings here describe customer perception in 2014, not present-day conditions.
 
 3. **Typo in Q5 narrative text.** The Q5 table reports 54% Yes / 46% No
    (consistent, sums to 100). The accompanying interpretation paragraph in the
-   source document states "45%" instead of 46% — a one-character transcription
+   source document states "45%" instead of 46%, a one-character transcription
    slip. The table values (54/46) are treated as authoritative.
 
 4. **Near-duplicate question (Q12 / Q16).** "What do you think about Maruti
