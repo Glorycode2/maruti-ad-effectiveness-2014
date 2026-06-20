@@ -35,8 +35,11 @@ Steps:
 
 **Customers care about concept over discounts.** When asked what they like in an advertisement, 38% picked "theme and concept", more than picked "offers and discounts" (20%). People remember a good idea more than a good deal.
 
-## Limitations
+## Results & Limitations
 
+The reality check is that, the ads are missing the mark: Even though local dealership promos do okay, almost 70% of people surveyed hadn't even noticed a Maruti Suzuki TV commercial. 
+People are tuning out: Nearly 3/4 said TV ads don't affect their buying choices at all, and almost half just ignore the print ads entirely.  
+What actually works: The internet is the best bet for grabbing attention (35%), and using brand ambassadors still holds a considerable influence (65%).  
 This data is from 2014 and describes customer sentiment at that point in time, not today's. It's also aggregate-only. I have per-question totals, not individual respondent records, so I can't check things like whether higher-income respondents responded differently from lower-income ones across questions. Two minor inconsistencies in the original source data (one question's category counts don't sum to its stated total, and one question appears to have been asked twice with identical results) are documented in the data source notes rather than corrected, since I have no way to know which underlying numbers were actually mis-recorded.
 
 ## Conclusions & Next Steps
